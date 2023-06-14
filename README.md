@@ -1,4 +1,13 @@
-<h1> Hello! Welcome to my Github profile.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center"> Hello! Welcome to my Github profile.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 <p>Hello, I'm Shintaku and I'm a Frontend Developer and UX/UI Designer passionate about creating intuitive interfaces, with more than 2 years of experience in web development and user experience design.
 
@@ -28,12 +37,6 @@ I have skills in several technologies, such as Node, Vue, React, Next, JavaScrip
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-1A237E?style=for-the-badge&logo=typescript&logoColor=white)
-
- 
-<h2>🔗Social Links</h2>
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipe.enzou@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-enzou/)
 
 <h2>Github Analytics</h2>
 
