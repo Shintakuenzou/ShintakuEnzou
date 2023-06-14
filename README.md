@@ -1,10 +1,8 @@
 <h1> Hello! Welcome to my Github profile.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-- Front End Developer & UI/UX Designer
-- Academic Formation in Systems Analysis and Development 2021-2023
-- Talk to me about freelancing opportunities in Front-end development
+<p>Hello, I'm Shintaku and I'm a Frontend Developer and UX/UI Designer passionate about creating intuitive interfaces, with more than 2 years of experience in web development and user experience design.
 
-<br>
+I have skills in several technologies, such as Node, Vue, React, Next, JavaScript, ES6 and ES7, TypeScript, HTML, CSS and Preprocessors, Bootstrap, Tailwind CSS, Git and GitHub, Wireframe Development, Prototyping, Visual Design, Methodologies Agile like Scrum and Kanban, among others.</p>
 
 <h2>Languages and Tools:
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"       
