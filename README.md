@@ -1,6 +1,5 @@
-<img align='right' src='https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' width='300' >
+<h1> Hello! Welcome to my Github profile.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-# Hello! Welcome to my Github profile.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 - Front End Developer & UI/UX Designer
 - Academic Formation in Systems Analysis and Development 2021-2023
 - Talk to me about freelancing opportunities in Front-end development
