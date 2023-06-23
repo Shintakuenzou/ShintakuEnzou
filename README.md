@@ -9,15 +9,12 @@
   </a>
 </p>
 
-<p>Hello, I'm Shintaku and I'm a Frontend Developer and UX/UI Designer passionate about creating intuitive interfaces, with more than 2 years of experience in web development and user experience design.</p>
+<p>Passionate Frontend Developer dedicated to creating intuitive, responsive and accessible interfaces.</p>
 
-<h2>Soft Skills:</h2>
+<h2>Soft Skills</h2>
 <p>Proactivity, Teamwork, Discipline, Organization, Resilience, Empathy, and Continuous Professional Growth.</p>
 
-<h2>Hard Skills:
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"       
-  width=28px>
-</h2> 
+<h2>Hard Skills</h2> 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
