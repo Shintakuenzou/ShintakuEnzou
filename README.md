@@ -1,11 +1,4 @@
-<p>
-  <a href="">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+<h3>About me</h3>
 
 >Passionate Frontend Developer dedicated to creating intuitive, responsive and accessible interfaces.
 
@@ -40,10 +33,16 @@
 ![Zod](https://img.shields.io/badge/Zod-1A237E?style=for-the-badge&logo=typescript&logoColor=white)
 </div>
 
+<div>
+<h3>Contacts</h3>
+<a href="https://www.linkedin.com/in/felipe-enzou/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rodrigo-goncalves-santana/" style="max-width: 100%;"></a>
+    
+<a href="mailto:felipe.enzou@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-felipe.enzou@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:felipe.enzou@gmail.com" style="max-width: 100%;"></a>
+</div>
+  
 
-<h2>Github Analytics</h2>
+<h3>Github Analytics</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShintakuEnzou&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShintakuEnzou&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
 
