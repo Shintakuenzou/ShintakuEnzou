@@ -11,10 +11,10 @@
 
 <p>Passionate Frontend Developer dedicated to creating intuitive, responsive and accessible interfaces.</p>
 
-<h2>Soft Skills</h2>
+<strong>Soft Skills</strong>
 <p>Proactivity, Teamwork, Discipline, Organization, Resilience, Empathy, and Continuous Professional Growth.</p>
 
-<h2>Hard Skills</h2> 
+<strong>Hard Skills</strong> 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
