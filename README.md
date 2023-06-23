@@ -4,7 +4,7 @@
 
 
 <div>
-  <strong>Soft Skills: </strong>
+  <strong>Skills: </strong>
   <span>Proactivity, Teamwork, Discipline, Organization, Resilience, Empathy, and Continuous Professional Growth.</span>
 </div>
 
