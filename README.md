@@ -9,13 +9,18 @@
   </a>
 </p>
 
-<p>Passionate Frontend Developer dedicated to creating intuitive, responsive and accessible interfaces.</p>
+>Passionate Frontend Developer dedicated to creating intuitive, responsive and accessible interfaces.
 
-<strong>Soft Skills</strong>
-<p>Proactivity, Teamwork, Discipline, Organization, Resilience, Empathy, and Continuous Professional Growth.</p>
 
-<strong>Hard Skills</strong> 
+<div>
+  <strong>Soft Skills: </strong>
+  <span>Proactivity, Teamwork, Discipline, Organization, Resilience, Empathy, and Continuous Professional Growth.</span>
+</div>
 
+</br>
+
+<div>
+  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -35,6 +40,8 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-1A237E?style=for-the-badge&logo=typescript&logoColor=white)
+</div>
+
 
 <h2>Github Analytics</h2>
 
