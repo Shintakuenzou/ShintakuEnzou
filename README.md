@@ -1,6 +1,4 @@
-<h1 align="center"> Hello! Welcome to my Github profile.<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-
-<p align="center">
+<p>
   <a href="">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
