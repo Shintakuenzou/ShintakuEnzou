@@ -3,15 +3,9 @@
 >Passionate Frontend Developer dedicated to creating intuitive, responsive and accessible interfaces.
 
 
-<div>
-  <strong>Skills: </strong>
-  <span>Proactivity, Teamwork, Discipline, Organization, Resilience, Empathy, and Continuous Professional Growth.</span>
-</div>
+ 
+### Skills 
 
-</br>
-
-<div>
-  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -21,7 +15,7 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typsscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![React-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -31,7 +25,10 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-1A237E?style=for-the-badge&logo=typescript&logoColor=white)
-</div>
+  
+ _***Other skills***: Proactivity, Teamwork, Discipline, Organization, Resilience, Empathy, and Continuous Professional Growth._
+ 
+ 
 
 <div>
 <h3>Contacts</h3>
@@ -45,4 +42,6 @@
 <h3>Github Analytics</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShintakuEnzou&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
 
