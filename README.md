@@ -44,4 +44,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShintakuEnzou&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
  
-
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=ShintakuEnzou&color=blue&style=flat)" />
+  </a>
+</p>
