@@ -1,22 +1,23 @@
-<h1 align="center">Hello, I'm Shintaku Enzou 👋</h1>
+<h3>Hello, I'm Shintaku Enzou <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" ></h3> 
 
-<div align="center">
+I'm a software engineer. My specialty is developing **frontend applications with Reactjs and Nextjs**.
+
+- Technology enthusiast
+- egree in systems analysis and development
+- I am currently learning Java and Authentication Strategies
+
+💼 I have experience working with:
+
+![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Next](https://img.shields.io/badge/-next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Node](https://img.shields.io/badge/-node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
+
  
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Shintakuenzou)](https://github.com/Shintakuenzou)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-enzou/)](https://www.linkedin.com/in/felipe-enzou/)
-[![Email Badge](https://img.shields.io/badge/-felipe.enzou@gmail.com-white?style=flat-square&logo=gmail&logoColor=red&link=https://mail.google.com/)](https://mail.google.com/)
-</div>
-
-> I'm a frontend developer and student committed to achieving constant evolution in the art of creating unique web interfaces.
-
-I have experience in JavaScript and TypeScript, with proficiency in developing high-performance web applications using Next.js. I have knowledge in unit testing with Jest and solid experience in Git for efficient project management. Additionally, I have experience in state management with Redux, and my specialization is in front-end development using the React library
-
  
-## ⚙ Main skills
-[![Main skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,tailwind,redux,next)](https://skillicons.dev)
-
-> In addition to technical skills, I am characterized by proactivity, ability to work in a team and discipline. Organization and resilience are fundamental characteristics in my work, and my empathy allows me to collaborate effectively with colleagues and understand users' needs. I am committed to continuous professional growth and always seeking to improve my skills and knowledge.
-
-### ➕More information
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-enzou/)
+[![EMAIL](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/)](https://mail.google.com/)
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShintakuEnzou&layout=compact&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&hide_border=true" alt="Top Languages" width="300" />
+
