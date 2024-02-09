@@ -3,7 +3,7 @@
 I'm a software engineer. My specialty is developing **frontend applications with Reactjs and Nextjs**.
 
 - Technology enthusiast
-- egree in systems analysis and development
+- Degree in systems analysis and development
 - I am currently learning Java and Authentication Strategies
 
 💼 I have experience working with:
