@@ -4,7 +4,6 @@ I'm a software engineer. My specialty is developing **frontend applications with
 
 - Technology enthusiast
 - Degree in systems analysis and development
-- I am currently learning Java and Authentication Strategies
 
 💼 I have experience working with:
 
